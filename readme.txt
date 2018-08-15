@@ -1,3 +1,3 @@
 Hello world
-Git is a wonderful tool
+Git is a wonderful tool Smart git
 
