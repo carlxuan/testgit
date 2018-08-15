@@ -1,2 +1,3 @@
-This is my first git file
 Hello world
+Git is a wonderful tool
+
